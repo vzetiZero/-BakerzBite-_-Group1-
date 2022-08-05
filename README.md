@@ -36,7 +36,7 @@ Documentations :https://github.com/vzetiZero/-BakerzBite-_-Group1-T1.2204.M0/tre
 
 =======================================
 
-Published website : https://l3nhan.github.io/doodle_group01/
+Published website : https://vzetizero.github.io/-BakerzBite-_-Group1-T1.2204.M0/
 
 =======================================
 
